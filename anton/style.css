@@ -1,0 +1,39 @@
+/* Anton Nguyen, Christina Epple */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+h2 {
+    background-color: #007BFF;
+    color: white;
+    padding: 8px;
+    border-radius: 5px;
+}
+
+table {
+    border-collapse: collapse;
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+
+th, td {
+    border: 2px solid black; 
+    padding: 10px 25px 10px 15px; 
+    text-align: right; 
+}
+
+th {
+    text-align: center;
+}
+
+td:first-child {
+    text-align: left;
+    font-weight: bold;
+}
